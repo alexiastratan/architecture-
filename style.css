@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(28, 28, 28);
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-brand img{
+    width: 4em;
+}
+
+.poza{
+   height: 25em ;
+   width: 100%;
+}
+
+.imagine{
+    height: 20em;
+}
+
+.fit{
+    height: 1em;
+    object-fit: cover;
+}
+
+.card{
+    height: 20em;
+}
+
+.card img{
+    width: 7rem;
+    height: 7rem;
+    
+}
+
+.logo{
+    width: 4em;
+}
+
+.logo1{
+    width: 1em;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+ 
+
